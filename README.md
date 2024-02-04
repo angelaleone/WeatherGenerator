@@ -1,4 +1,4 @@
-# Project Name
+# Weather Playlist Generator
 
 ## Description
 Generate a playlist based on the weather of a user's location or any location. Customize your experience with length and genre filters.
